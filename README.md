@@ -37,4 +37,4 @@
 ---
 
 💼 Open for collaborations and consulting opportunities
-🔗 ETH/BSC/Polygon: `0xb549579A6d5Ccfa3f8B143D11BCb4BF1494f7880`
+🔗 ETH/BSC: `0xb549579A6d5Ccfa3f8B143D11BCb4BF1494f7880`
